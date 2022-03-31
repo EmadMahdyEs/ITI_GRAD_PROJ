@@ -8,7 +8,7 @@
 #ifndef MCAL_USART_USART_CONFIGURATION_H_
 #define MCAL_USART_USART_CONFIGURATION_H_
 
-#define USART_BAUD_RATE			9600
+#define USART_BAUD_RATE			115200
 
 /********************************************
  choose the used width of the transceived data
